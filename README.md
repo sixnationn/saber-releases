@@ -62,8 +62,8 @@ diffs and history, an integrated terminal, project-wide search, and C#/.NET debu
    [latest release](https://github.com/sixnationn/saber-releases/releases/latest).
 2. Run it. The installer is not code-signed yet, so Windows SmartScreen may ask you to confirm
    (**More info → Run anyway**).
-3. Saber checks for new versions when it starts. The one exception is 0.9.2, which looks for
-   updates in the wrong place: if that is what you have, install the latest release over it once.
+3. Saber checks for new versions when it starts. Versions before 0.9.4 look for updates in the
+   wrong place, so if you have one of those, install the latest release over it once.
 
 ## First run
 
